@@ -1,0 +1,12 @@
+{
+  "name": "wakam-video",
+  "version": "1.0.0",
+  "description": "WAKAM video studio — Arabic video editing in 6 skills: talking-head reels, product review reels with voiceover, 3D motion explainers, podcasts, beat-synced montage, covers & thumbnails. WAKAM brand (logo, colours, end card) applied by default.",
+  "author": {
+    "name": "WAKAM"
+  },
+  "license": "MIT",
+  "skills": [
+    "./"
+  ]
+}

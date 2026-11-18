@@ -1,0 +1,14 @@
+{
+  "name": "wakam-video",
+  "owner": {
+    "name": "WAKAM"
+  },
+  "description": "WAKAM video studio plugin",
+  "plugins": [
+    {
+      "name": "wakam-video",
+      "source": "./",
+      "description": "6 skills: reels from talking videos · product review reels · 3D motion explainers · podcasts · beat-synced montage · covers & thumbnails"
+    }
+  ]
+}
